@@ -1,0 +1,4 @@
+Segment,Best_CV_F1,Best_Params,Tuned_Test_Accuracy,Tuned_Test_F1,Tuned_Test_AUC
+High-Risk Churners,0.7762,"{'model__max_depth': 3, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__min_samples_split': 10, 'model__n_estimators': 100}",0.8636,0.8,1.0
+Mid-Value Segment 1,0.8333,"{'model__max_depth': 3, 'model__min_samples_leaf': 1, 'model__min_samples_split': 2, 'model__n_estimators': 50}",0.8889,0.6667,0.8889
+At-Risk Mid-Tenure Customers,0.9429,"{'model__max_depth': 3, 'model__min_samples_leaf': 1, 'model__min_samples_split': 2, 'model__n_estimators': 50}",1.0,1.0,1.0

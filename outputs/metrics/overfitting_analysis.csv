@@ -1,0 +1,4 @@
+segment,train_accuracy,test_accuracy,cv_mean,cv_std,gap,status
+High-Risk Churners,0.9242,0.8636,0.8791,0.0361,0.0606,OK
+Mid-Value Segment 1,0.9216,0.8889,0.94,0.08,0.0327,OK
+At-Risk Mid-Tenure Customers,0.9828,1.0,0.9652,0.0427,-0.0172,OK
